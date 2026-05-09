@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# venv
+venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# DB
+*.db
+
+# Environment
+.env
+
+# Docker
+postgres-data/
+mssql-data/
+
+# Build
+dist/
+build/
